@@ -6,13 +6,14 @@
 ![MongoDB Version](https://img.shields.io/badge/mongodb-v7+-yellowgreen.svg)
 ![Mongoose Version](https://img.shields.io/badge/mongoose-v7+-red.svg)
 
-![MERN CRUD Screenshot](![image](https://github.com/user-attachments/assets/2c260a2b-0243-462a-b547-fb3373f4dec9))
+![Captura de tela 2025-02-09 164620](https://github.com/user-attachments/assets/9a061718-5659-4e83-909e-ef2f240ec61b)
+
 
 ## Instructions
 
 Fork, then download or clone the repo.
 ```bash
-git clone https://github.com/<your-user-name>/mern-crud.git
+git clone https://github.com/<your-user-name>/TrabEngSoftware.git
 ```
 
 The *config* folder contains a file named *config.js*. Before running locally, change the value of `db` as seen in the code below. *Make sure MongoDB service is running.*
